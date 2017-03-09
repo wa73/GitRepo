@@ -8,7 +8,7 @@ public class Hello{
     Use System.out.println() to print on console.
     */
     System.out.println("Hello World !");
- 
+    System.out.println("Hello World2 !"); 
   }
  
 }
